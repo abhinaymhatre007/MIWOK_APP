@@ -1,0 +1,25 @@
+#Mon Jul 03 00:39:50 IST 2017
+renamed.7=classes4.dex
+renamed.6=classes3.dex
+renamed.5=classes8.dex
+renamed.4=classes6.dex
+renamed.3=classes.dex
+renamed.2=classes2.dex
+renamed.1=classes5.dex
+renamed.0=classes7.dex
+base.7=E\:\\AndroidStudioProjects\\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b656e0971c2ebd9f490ad0bd9b593ae120faaf0a
+base.6=E\:\\AndroidStudioProjects\\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ac43bda6c1ee8dc6d53fc194f41f08a934f54555
+base.5=E\:\\AndroidStudioProjects\\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.3.0_e4f9b236020f777cb06f17017292b7f78e883f12
+base.4=E\:\\AndroidStudioProjects\\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_eeb9dbaae88932f23b23c2a42957a15a09307b49
+base.3=E\:\\AndroidStudioProjects\\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_55cd867e46a19176ddc387a79717adfe1bf2d25a
+base.2=E\:\\AndroidStudioProjects\\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_90e870fdd8743da8cb8274c8a2c29bd0d82d74e2
+base.1=E\:\\AndroidStudioProjects\\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_bbf29824002500078d19941aff3e2e1cfad3f4d9
+base.0=E\:\\AndroidStudioProjects\\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.3.0_bcc4081ecc93f5b816f825de225ea43f6f7138fc
+file.7=E\:\\AndroidStudioProjects\\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b656e0971c2ebd9f490ad0bd9b593ae120faaf0a\\classes.dex
+file.6=E\:\\AndroidStudioProjects\\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ac43bda6c1ee8dc6d53fc194f41f08a934f54555\\classes.dex
+file.5=E\:\\AndroidStudioProjects\\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.3.0_e4f9b236020f777cb06f17017292b7f78e883f12\\classes.dex
+file.4=E\:\\AndroidStudioProjects\\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_eeb9dbaae88932f23b23c2a42957a15a09307b49\\classes.dex
+file.3=E\:\\AndroidStudioProjects\\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_55cd867e46a19176ddc387a79717adfe1bf2d25a\\classes.dex
+file.2=E\:\\AndroidStudioProjects\\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_90e870fdd8743da8cb8274c8a2c29bd0d82d74e2\\classes.dex
+file.1=E\:\\AndroidStudioProjects\\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_bbf29824002500078d19941aff3e2e1cfad3f4d9\\classes.dex
+file.0=E\:\\AndroidStudioProjects\\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.3.0_bcc4081ecc93f5b816f825de225ea43f6f7138fc\\classes.dex

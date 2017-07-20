@@ -1,0 +1,86 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:16:1-46:12
+	package
+		ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:17:5-40
+		INJECTED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:16:11-69
+	android:versionCode
+		INJECTED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:19:5-44:19
+MERGED from [com.android.support:design:23.3.0] C:\Users\Abhinay Mhatre\.android\build-cache\dfc6e53e91f37ae1ef3de98d019dbea94f294c13\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Abhinay Mhatre\.android\build-cache\870c8490afa8e91bff1d63046eab0b237d7f9897\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\Abhinay Mhatre\.android\build-cache\4201e1fcf75d3a63965d452335fe3c7f96ad7194\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Abhinay Mhatre\.android\build-cache\884efe0dd451d7727b67778f7310662930140121\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Abhinay Mhatre\.android\build-cache\23315cfa04205d38e0ef2c76aa38d1308aaff1e5\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:22:9-41
+	android:supportsRtl
+		ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:23:9-35
+	android:allowBackup
+		ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:21:9-43
+	android:theme
+		ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.example.android.miwok.MainActivity
+ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:25:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.example.android.miwok.NumbersActivity
+ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:32:9-34:56
+	android:label
+		ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:34:13-53
+	android:name
+		ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:33:13-44
+activity#com.example.android.miwok.FamilyActivity
+ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:35:9-37:55
+	android:label
+		ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:37:13-52
+	android:name
+		ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:36:13-43
+activity#com.example.android.miwok.ColorsActivity
+ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:38:9-40:55
+	android:label
+		ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:40:13-52
+	android:name
+		ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:39:13-43
+activity#com.example.android.miwok.PhrasesActivity
+ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:41:9-43:56
+	android:label
+		ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:43:13-53
+	android:name
+		ADDED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml:42:13-44
+uses-sdk
+INJECTED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.3.0] C:\Users\Abhinay Mhatre\.android\build-cache\dfc6e53e91f37ae1ef3de98d019dbea94f294c13\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Abhinay Mhatre\.android\build-cache\870c8490afa8e91bff1d63046eab0b237d7f9897\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\Abhinay Mhatre\.android\build-cache\4201e1fcf75d3a63965d452335fe3c7f96ad7194\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Abhinay Mhatre\.android\build-cache\884efe0dd451d7727b67778f7310662930140121\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] C:\Users\Abhinay Mhatre\.android\build-cache\58d6b31787e953565262c590f256041c52369ae1\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Abhinay Mhatre\.android\build-cache\23315cfa04205d38e0ef2c76aa38d1308aaff1e5\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Abhinay Mhatre\.android\build-cache\870c8490afa8e91bff1d63046eab0b237d7f9897\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\ud839_Miwok-3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f\app\src\main\AndroidManifest.xml
